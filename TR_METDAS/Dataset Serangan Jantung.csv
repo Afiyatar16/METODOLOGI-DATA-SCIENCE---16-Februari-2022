@@ -1,0 +1,304 @@
+Age,Umur,Gender,Jenis Kelamin,cp,Jenis nyeri dada,trtbps,Tekanan Darah,chol,Kolestrol,fbs,Gula Darah Puasa > 120 mg,restecg,elektrokardiografi istirahat,thalachh,Detak jantung maksimum,exng,Angina akibat olahraga,oldpeak,slp,Kemiringan segmen ST,caa,Jumlah Pembuluh Darah Utama,thall,output,Keluaran
+63,Lansia,1,Laki-Laki,3,Nyeri non-angina,145,Hipertensi tingkat I,233,Batas Tinggi,1,Ya,0,Hipertrofi,150,Tinggi,0,Tidak,2.3,0,Menurun,0,,1,1,Ya
+37,Dewasa,1,Laki-Laki,2,Angina atipikal,130,Pra Hipertensi,250,Tinggi,0,Tidak,1,Normal,187,Tinggi,0,Tidak,3.5,0,Menurun,0,,2,1,Ya
+41,Dewasa,0,Perempuan,1,Angina tipikal,130,Pra Hipertensi,204,Batas Tinggi,0,Tidak,0,Hipertrofi,172,Tinggi,0,Tidak,1.4,2,Miring,0,,2,1,Ya
+56,Lansia,1,Laki-Laki,1,Angina tipikal,120,Pra Hipertensi,236,Batas Tinggi,0,Tidak,1,Normal,178,Tinggi,0,Tidak,0.8,2,Miring,0,,2,1,Ya
+57,Lansia,0,Perempuan,0,asimtomatik,120,Pra Hipertensi,354,Tinggi,0,Tidak,1,Normal,163,Tinggi,1,Ya,0.6,2,Miring,0,,2,1,Ya
+57,Lansia,1,Laki-Laki,0,asimtomatik,140,Hipertensi tingkat I,192,Normal,0,Tidak,1,Normal,148,Normal,0,Tidak,0.4,1,Datar,0,,1,1,Ya
+56,Lansia,0,Perempuan,1,Angina tipikal,140,Hipertensi tingkat I,294,Tinggi,0,Tidak,0,Hipertrofi,153,Tinggi,0,Tidak,1.3,1,Datar,0,,2,1,Ya
+44,Dewasa,1,Laki-Laki,1,Angina tipikal,120,Pra Hipertensi,263,Tinggi,0,Tidak,1,Normal,173,Tinggi,0,Tidak,0,2,Miring,0,,3,1,Ya
+52,Lansia,1,Laki-Laki,2,Angina atipikal,172,Hipertensi tingkat II,199,Normal,1,Ya,1,Normal,162,Tinggi,0,Tidak,0.5,2,Miring,0,,3,1,Ya
+57,Lansia,1,Laki-Laki,2,Angina atipikal,150,Hipertensi tingkat I,168,Normal,0,Tidak,1,Normal,174,Tinggi,0,Tidak,1.6,2,Miring,0,,2,1,Ya
+54,Lansia,1,Laki-Laki,0,asimtomatik,140,Hipertensi tingkat I,239,Batas Tinggi,0,Tidak,1,Normal,160,Tinggi,0,Tidak,1.2,2,Miring,0,,2,1,Ya
+48,Lansia,0,Perempuan,2,Angina atipikal,130,Pra Hipertensi,275,Tinggi,0,Tidak,1,Normal,139,Normal,0,Tidak,0.2,2,Miring,0,,2,1,Ya
+49,Lansia,1,Laki-Laki,1,Angina tipikal,130,Pra Hipertensi,266,Tinggi,0,Tidak,1,Normal,171,Tinggi,0,Tidak,0.6,2,Miring,0,,2,1,Ya
+64,Lansia,1,Laki-Laki,3,Nyeri non-angina,110,Normal,211,Batas Tinggi,0,Tidak,0,Hipertrofi,144,Normal,1,Ya,1.8,1,Datar,0,,2,1,Ya
+58,Lansia,0,Perempuan,3,Nyeri non-angina,150,Hipertensi tingkat I,283,Tinggi,1,Ya,0,Hipertrofi,162,Tinggi,0,Tidak,1,2,Miring,0,,2,1,Ya
+50,Lansia,0,Perempuan,2,Angina atipikal,120,Pra Hipertensi,219,Batas Tinggi,0,Tidak,1,Normal,158,Tinggi,0,Tidak,1.6,1,Datar,0,,2,1,Ya
+58,Lansia,0,Perempuan,2,Angina atipikal,120,Pra Hipertensi,340,Tinggi,0,Tidak,1,Normal,172,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+66,Manula,0,Perempuan,3,Nyeri non-angina,150,Hipertensi tingkat I,226,Batas Tinggi,0,Tidak,1,Normal,114,Normal,0,Tidak,2.6,0,Menurun,0,,2,1,Ya
+43,Dewasa,1,Laki-Laki,0,asimtomatik,150,Hipertensi tingkat I,247,Tinggi,0,Tidak,1,Normal,171,Tinggi,0,Tidak,1.5,2,Miring,0,,2,1,Ya
+69,Manula,0,Perempuan,3,Nyeri non-angina,140,Hipertensi tingkat I,239,Batas Tinggi,0,Tidak,1,Normal,151,Tinggi,0,Tidak,1.8,2,Miring,2,Biasa,2,1,Ya
+59,Lansia,1,Laki-Laki,0,asimtomatik,135,Pra Hipertensi,234,Batas Tinggi,0,Tidak,1,Normal,161,Tinggi,0,Tidak,0.5,1,Datar,0,,3,1,Ya
+44,Dewasa,1,Laki-Laki,2,Angina atipikal,130,Pra Hipertensi,233,Batas Tinggi,0,Tidak,1,Normal,179,Tinggi,1,Ya,0.4,2,Miring,0,,2,1,Ya
+42,Dewasa,1,Laki-Laki,0,asimtomatik,140,Hipertensi tingkat I,226,Batas Tinggi,0,Tidak,1,Normal,178,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+61,Lansia,1,Laki-Laki,2,Angina atipikal,150,Hipertensi tingkat I,243,Tinggi,1,Ya,1,Normal,137,Normal,1,Ya,1,1,Datar,0,,2,1,Ya
+40,Dewasa,1,Laki-Laki,3,Nyeri non-angina,140,Hipertensi tingkat I,199,Normal,0,Tidak,1,Normal,178,Tinggi,1,Ya,1.4,2,Miring,0,,3,1,Ya
+71,Manula,0,Perempuan,1,Angina tipikal,160,Hipertensi tingkat II,302,Tinggi,0,Tidak,1,Normal,162,Tinggi,0,Tidak,0.4,2,Miring,2,Biasa,2,1,Ya
+59,Lansia,1,Laki-Laki,2,Angina atipikal,150,Hipertensi tingkat I,212,Batas Tinggi,1,Ya,1,Normal,157,Tinggi,0,Tidak,1.6,2,Miring,0,,2,1,Ya
+51,Lansia,1,Laki-Laki,2,Angina atipikal,110,Normal,175,Normal,0,Tidak,1,Normal,123,Normal,0,Tidak,0.6,2,Miring,0,,2,1,Ya
+65,Manula,0,Perempuan,2,Angina atipikal,140,Hipertensi tingkat I,417,Tinggi,1,Ya,0,Hipertrofi,157,Tinggi,0,Tidak,0.8,2,Miring,1,Cacat Tetap,2,1,Ya
+53,Lansia,1,Laki-Laki,2,Angina atipikal,130,Pra Hipertensi,197,Normal,1,Ya,0,Hipertrofi,152,Tinggi,0,Tidak,1.2,0,Menurun,0,,2,1,Ya
+41,Dewasa,0,Perempuan,1,Angina tipikal,105,Normal,198,Normal,0,Tidak,1,Normal,168,Tinggi,0,Tidak,0,2,Miring,1,Cacat Tetap,2,1,Ya
+65,Manula,1,Laki-Laki,0,asimtomatik,120,Pra Hipertensi,177,Normal,0,Tidak,1,Normal,140,Normal,0,Tidak,0.4,2,Miring,0,,3,1,Ya
+44,Dewasa,1,Laki-Laki,1,Angina tipikal,130,Pra Hipertensi,219,Batas Tinggi,0,Tidak,0,Hipertrofi,188,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+54,Lansia,1,Laki-Laki,2,Angina atipikal,125,Pra Hipertensi,273,Tinggi,0,Tidak,0,Hipertrofi,152,Tinggi,0,Tidak,0.5,0,Menurun,1,Cacat Tetap,2,1,Ya
+51,Lansia,1,Laki-Laki,3,Nyeri non-angina,125,Pra Hipertensi,213,Batas Tinggi,0,Tidak,0,Hipertrofi,125,Normal,1,Ya,1.4,2,Miring,1,Cacat Tetap,2,1,Ya
+46,Lansia,0,Perempuan,2,Angina atipikal,142,Hipertensi tingkat I,177,Normal,0,Tidak,0,Hipertrofi,160,Tinggi,1,Ya,1.4,0,Menurun,0,,2,1,Ya
+54,Lansia,0,Perempuan,2,Angina atipikal,135,Pra Hipertensi,304,Tinggi,1,Ya,1,Normal,170,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+54,Lansia,1,Laki-Laki,2,Angina atipikal,150,Hipertensi tingkat I,232,Batas Tinggi,0,Tidak,0,Hipertrofi,165,Tinggi,0,Tidak,1.6,2,Miring,0,,3,1,Ya
+65,Manula,0,Perempuan,2,Angina atipikal,155,Hipertensi tingkat I,269,Tinggi,0,Tidak,1,Normal,148,Normal,0,Tidak,0.8,2,Miring,0,,2,1,Ya
+65,Manula,0,Perempuan,2,Angina atipikal,160,Hipertensi tingkat II,360,Tinggi,0,Tidak,0,Hipertrofi,151,Tinggi,0,Tidak,0.8,2,Miring,0,,2,1,Ya
+51,Lansia,0,Perempuan,2,Angina atipikal,140,Hipertensi tingkat I,308,Tinggi,0,Tidak,0,Hipertrofi,142,Normal,0,Tidak,1.5,2,Miring,1,Cacat Tetap,2,1,Ya
+48,Lansia,1,Laki-Laki,1,Angina tipikal,130,Pra Hipertensi,245,Tinggi,0,Tidak,0,Hipertrofi,180,Tinggi,0,Tidak,0.2,1,Datar,0,,2,1,Ya
+45,Dewasa,1,Laki-Laki,0,asimtomatik,104,Normal,208,Batas Tinggi,0,Tidak,0,Hipertrofi,148,Normal,1,Ya,3,1,Datar,0,,2,1,Ya
+53,Lansia,0,Perempuan,0,asimtomatik,130,Pra Hipertensi,264,Tinggi,0,Tidak,0,Hipertrofi,143,Normal,0,Tidak,0.4,1,Datar,0,,2,1,Ya
+39,Dewasa,1,Laki-Laki,2,Angina atipikal,140,Hipertensi tingkat I,321,Tinggi,0,Tidak,0,Hipertrofi,182,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+52,Lansia,1,Laki-Laki,1,Angina tipikal,120,Pra Hipertensi,325,Tinggi,0,Tidak,1,Normal,172,Tinggi,0,Tidak,0.2,2,Miring,0,,2,1,Ya
+44,Dewasa,1,Laki-Laki,2,Angina atipikal,140,Hipertensi tingkat I,235,Batas Tinggi,0,Tidak,0,Hipertrofi,180,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+47,Lansia,1,Laki-Laki,2,Angina atipikal,138,Pra Hipertensi,257,Tinggi,0,Tidak,0,Hipertrofi,156,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+53,Lansia,0,Perempuan,2,Angina atipikal,128,Pra Hipertensi,216,Batas Tinggi,0,Tidak,0,Hipertrofi,115,Normal,0,Tidak,0,2,Miring,0,,0,1,Ya
+53,Lansia,0,Perempuan,0,asimtomatik,138,Pra Hipertensi,234,Batas Tinggi,0,Tidak,0,Hipertrofi,160,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+51,Lansia,0,Perempuan,2,Angina atipikal,130,Pra Hipertensi,256,Tinggi,0,Tidak,0,Hipertrofi,149,Normal,0,Tidak,0.5,2,Miring,0,,2,1,Ya
+66,Manula,1,Laki-Laki,0,asimtomatik,120,Pra Hipertensi,302,Tinggi,0,Tidak,0,Hipertrofi,151,Tinggi,0,Tidak,0.4,1,Datar,0,,2,1,Ya
+62,Lansia,1,Laki-Laki,2,Angina atipikal,130,Pra Hipertensi,231,Batas Tinggi,0,Tidak,1,Normal,146,Normal,0,Tidak,1.8,1,Datar,3,Pracacat Reversibel,3,1,Ya
+44,Dewasa,0,Perempuan,2,Angina atipikal,108,Normal,141,Normal,0,Tidak,1,Normal,175,Tinggi,0,Tidak,0.6,1,Datar,0,,2,1,Ya
+63,Lansia,0,Perempuan,2,Angina atipikal,135,Pra Hipertensi,252,Tinggi,0,Tidak,0,Hipertrofi,172,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+52,Lansia,1,Laki-Laki,1,Angina tipikal,134,Pra Hipertensi,201,Batas Tinggi,0,Tidak,1,Normal,158,Tinggi,0,Tidak,0.8,2,Miring,1,Cacat Tetap,2,1,Ya
+48,Lansia,1,Laki-Laki,0,asimtomatik,122,Pra Hipertensi,222,Batas Tinggi,0,Tidak,0,Hipertrofi,186,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+45,Dewasa,1,Laki-Laki,0,asimtomatik,115,Normal,260,Tinggi,0,Tidak,0,Hipertrofi,185,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+34,Dewasa,1,Laki-Laki,3,Nyeri non-angina,118,Normal,182,Normal,0,Tidak,0,Hipertrofi,174,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+57,Lansia,0,Perempuan,0,asimtomatik,128,Pra Hipertensi,303,Tinggi,0,Tidak,0,Hipertrofi,159,Tinggi,0,Tidak,0,2,Miring,1,Cacat Tetap,2,1,Ya
+71,Manula,0,Perempuan,2,Angina atipikal,110,Normal,265,Tinggi,1,Ya,0,Hipertrofi,130,Normal,0,Tidak,0,2,Miring,1,Cacat Tetap,2,1,Ya
+54,Lansia,1,Laki-Laki,1,Angina tipikal,108,Normal,309,Tinggi,0,Tidak,1,Normal,156,Tinggi,0,Tidak,0,2,Miring,0,,3,1,Ya
+52,Lansia,1,Laki-Laki,3,Nyeri non-angina,118,Normal,186,Normal,0,Tidak,0,Hipertrofi,190,Tinggi,0,Tidak,0,1,Datar,0,,1,1,Ya
+41,Dewasa,1,Laki-Laki,1,Angina tipikal,135,Pra Hipertensi,203,Batas Tinggi,0,Tidak,1,Normal,132,Normal,0,Tidak,0,1,Datar,0,,1,1,Ya
+58,Lansia,1,Laki-Laki,2,Angina atipikal,140,Hipertensi tingkat I,211,Batas Tinggi,1,Ya,0,Hipertrofi,165,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+35,Dewasa,0,Perempuan,0,asimtomatik,138,Pra Hipertensi,183,Normal,0,Tidak,1,Normal,182,Tinggi,0,Tidak,1.4,2,Miring,0,,2,1,Ya
+51,Lansia,1,Laki-Laki,2,Angina atipikal,100,Normal,222,Batas Tinggi,0,Tidak,1,Normal,143,Normal,1,Ya,1.2,1,Datar,0,,2,1,Ya
+45,Dewasa,0,Perempuan,1,Angina tipikal,130,Pra Hipertensi,234,Batas Tinggi,0,Tidak,0,Hipertrofi,175,Tinggi,0,Tidak,0.6,1,Datar,0,,2,1,Ya
+44,Dewasa,1,Laki-Laki,1,Angina tipikal,120,Pra Hipertensi,220,Batas Tinggi,0,Tidak,1,Normal,170,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+62,Lansia,0,Perempuan,0,asimtomatik,124,Pra Hipertensi,209,Batas Tinggi,0,Tidak,1,Normal,163,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+54,Lansia,1,Laki-Laki,2,Angina atipikal,120,Pra Hipertensi,258,Tinggi,0,Tidak,0,Hipertrofi,147,Normal,0,Tidak,0.4,1,Datar,0,,3,1,Ya
+51,Lansia,1,Laki-Laki,2,Angina atipikal,94,Normal,227,Batas Tinggi,0,Tidak,1,Normal,154,Tinggi,1,Ya,0,2,Miring,1,Cacat Tetap,3,1,Ya
+29,Dewasa,1,Laki-Laki,1,Angina tipikal,130,Pra Hipertensi,204,Batas Tinggi,0,Tidak,0,Hipertrofi,202,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+51,Lansia,1,Laki-Laki,0,asimtomatik,140,Hipertensi tingkat I,261,Tinggi,0,Tidak,0,Hipertrofi,186,Tinggi,1,Ya,0,2,Miring,0,,2,1,Ya
+43,Dewasa,0,Perempuan,2,Angina atipikal,122,Pra Hipertensi,213,Batas Tinggi,0,Tidak,1,Normal,165,Tinggi,0,Tidak,0.2,1,Datar,0,,2,1,Ya
+55,Lansia,0,Perempuan,1,Angina tipikal,135,Pra Hipertensi,250,Tinggi,0,Tidak,0,Hipertrofi,161,Tinggi,0,Tidak,1.4,1,Datar,0,,2,1,Ya
+51,Lansia,1,Laki-Laki,2,Angina atipikal,125,Pra Hipertensi,245,Tinggi,1,Ya,0,Hipertrofi,166,Tinggi,0,Tidak,2.4,1,Datar,0,,2,1,Ya
+59,Lansia,1,Laki-Laki,1,Angina tipikal,140,Hipertensi tingkat I,221,Batas Tinggi,0,Tidak,1,Normal,164,Tinggi,1,Ya,0,2,Miring,0,,2,1,Ya
+52,Lansia,1,Laki-Laki,1,Angina tipikal,128,Pra Hipertensi,205,Batas Tinggi,1,Ya,1,Normal,184,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+58,Lansia,1,Laki-Laki,2,Angina atipikal,105,Normal,240,Tinggi,0,Tidak,0,Hipertrofi,154,Tinggi,1,Ya,0.6,1,Datar,0,,3,1,Ya
+41,Dewasa,1,Laki-Laki,2,Angina atipikal,112,Normal,250,Tinggi,0,Tidak,1,Normal,179,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+45,Dewasa,1,Laki-Laki,1,Angina tipikal,128,Pra Hipertensi,308,Tinggi,0,Tidak,0,Hipertrofi,170,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+60,Lansia,0,Perempuan,2,Angina atipikal,102,Normal,318,Tinggi,0,Tidak,1,Normal,160,Tinggi,0,Tidak,0,2,Miring,1,Cacat Tetap,2,1,Ya
+52,Lansia,1,Laki-Laki,3,Nyeri non-angina,152,Hipertensi tingkat I,298,Tinggi,1,Ya,1,Normal,178,Tinggi,0,Tidak,1.2,1,Datar,0,,3,1,Ya
+42,Dewasa,0,Perempuan,0,asimtomatik,102,Normal,265,Tinggi,0,Tidak,0,Hipertrofi,122,Normal,0,Tidak,0.6,1,Datar,0,,2,1,Ya
+67,Manula,0,Perempuan,2,Angina atipikal,115,Normal,564,Tinggi,0,Tidak,0,Hipertrofi,160,Tinggi,0,Tidak,1.6,1,Datar,0,,3,1,Ya
+68,Manula,1,Laki-Laki,2,Angina atipikal,118,Normal,277,Tinggi,0,Tidak,1,Normal,151,Tinggi,0,Tidak,1,2,Miring,1,Cacat Tetap,3,1,Ya
+46,Lansia,1,Laki-Laki,1,Angina tipikal,101,Normal,197,Normal,1,Ya,1,Normal,156,Tinggi,0,Tidak,0,2,Miring,0,,3,1,Ya
+54,Lansia,0,Perempuan,2,Angina atipikal,110,Normal,214,Batas Tinggi,0,Tidak,1,Normal,158,Tinggi,0,Tidak,1.6,1,Datar,0,,2,1,Ya
+58,Lansia,0,Perempuan,0,asimtomatik,100,Normal,248,Tinggi,0,Tidak,0,Hipertrofi,122,Normal,0,Tidak,1,1,Datar,0,,2,1,Ya
+48,Lansia,1,Laki-Laki,2,Angina atipikal,124,Pra Hipertensi,255,Tinggi,1,Ya,1,Normal,175,Tinggi,0,Tidak,0,2,Miring,2,Biasa,2,1,Ya
+57,Lansia,1,Laki-Laki,0,asimtomatik,132,Pra Hipertensi,207,Batas Tinggi,0,Tidak,1,Normal,168,Tinggi,1,Ya,0,2,Miring,0,,3,1,Ya
+52,Lansia,1,Laki-Laki,2,Angina atipikal,138,Pra Hipertensi,223,Batas Tinggi,0,Tidak,1,Normal,169,Tinggi,0,Tidak,0,2,Miring,4,Cacat  Reversibel,2,1,Ya
+54,Lansia,0,Perempuan,1,Angina tipikal,132,Pra Hipertensi,288,Tinggi,1,Ya,0,Hipertrofi,159,Tinggi,1,Ya,0,2,Miring,1,Cacat Tetap,2,1,Ya
+45,Dewasa,0,Perempuan,1,Angina tipikal,112,Normal,160,Normal,0,Tidak,1,Normal,138,Normal,0,Tidak,0,1,Datar,0,,2,1,Ya
+53,Lansia,1,Laki-Laki,0,asimtomatik,142,Hipertensi tingkat I,226,Batas Tinggi,0,Tidak,0,Hipertrofi,111,Normal,1,Ya,0,2,Miring,0,,3,1,Ya
+62,Lansia,0,Perempuan,0,asimtomatik,140,Hipertensi tingkat I,394,Tinggi,0,Tidak,0,Hipertrofi,157,Tinggi,0,Tidak,1.2,1,Datar,0,,2,1,Ya
+52,Lansia,1,Laki-Laki,0,asimtomatik,108,Normal,233,Batas Tinggi,1,Ya,1,Normal,147,Normal,0,Tidak,0.1,2,Miring,3,Pracacat Reversibel,3,1,Ya
+43,Dewasa,1,Laki-Laki,2,Angina atipikal,130,Pra Hipertensi,315,Tinggi,0,Tidak,1,Normal,162,Tinggi,0,Tidak,1.9,2,Miring,1,Cacat Tetap,2,1,Ya
+53,Lansia,1,Laki-Laki,2,Angina atipikal,130,Pra Hipertensi,246,Tinggi,1,Ya,0,Hipertrofi,173,Tinggi,0,Tidak,0,2,Miring,3,Pracacat Reversibel,2,1,Ya
+42,Dewasa,1,Laki-Laki,3,Nyeri non-angina,148,Hipertensi tingkat I,244,Tinggi,0,Tidak,0,Hipertrofi,178,Tinggi,0,Tidak,0.8,2,Miring,2,Biasa,2,1,Ya
+59,Lansia,1,Laki-Laki,3,Nyeri non-angina,178,Hipertensi tingkat II,270,Tinggi,0,Tidak,0,Hipertrofi,145,Normal,0,Tidak,4.2,0,Menurun,0,,3,1,Ya
+63,Lansia,0,Perempuan,1,Angina tipikal,140,Hipertensi tingkat I,195,Normal,0,Tidak,1,Normal,179,Tinggi,0,Tidak,0,2,Miring,2,Biasa,2,1,Ya
+42,Dewasa,1,Laki-Laki,2,Angina atipikal,120,Pra Hipertensi,240,Tinggi,1,Ya,1,Normal,194,Tinggi,0,Tidak,0.8,0,Menurun,0,,3,1,Ya
+50,Lansia,1,Laki-Laki,2,Angina atipikal,129,Pra Hipertensi,196,Normal,0,Tidak,1,Normal,163,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+68,Manula,0,Perempuan,2,Angina atipikal,120,Pra Hipertensi,211,Batas Tinggi,0,Tidak,0,Hipertrofi,115,Normal,0,Tidak,1.5,1,Datar,0,,2,1,Ya
+69,Manula,1,Laki-Laki,3,Nyeri non-angina,160,Hipertensi tingkat II,234,Batas Tinggi,1,Ya,0,Hipertrofi,131,Normal,0,Tidak,0.1,1,Datar,1,Cacat Tetap,2,1,Ya
+45,Dewasa,0,Perempuan,0,asimtomatik,138,Pra Hipertensi,236,Batas Tinggi,0,Tidak,0,Hipertrofi,152,Tinggi,1,Ya,0.2,1,Datar,0,,2,1,Ya
+50,Lansia,0,Perempuan,1,Angina tipikal,120,Pra Hipertensi,244,Tinggi,0,Tidak,1,Normal,162,Tinggi,0,Tidak,1.1,2,Miring,0,,2,1,Ya
+50,Lansia,0,Perempuan,0,asimtomatik,110,Normal,254,Tinggi,0,Tidak,0,Hipertrofi,159,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+64,Lansia,0,Perempuan,0,asimtomatik,180,Hipertensi tingkat II,325,Tinggi,0,Tidak,1,Normal,154,Tinggi,1,Ya,0,2,Miring,0,,2,1,Ya
+57,Lansia,1,Laki-Laki,2,Angina atipikal,150,Hipertensi tingkat I,126,Normal,1,Ya,1,Normal,173,Tinggi,0,Tidak,0.2,2,Miring,1,Cacat Tetap,3,1,Ya
+64,Lansia,0,Perempuan,2,Angina atipikal,140,Hipertensi tingkat I,313,Tinggi,0,Tidak,1,Normal,133,Normal,0,Tidak,0.2,2,Miring,0,,3,1,Ya
+43,Dewasa,1,Laki-Laki,0,asimtomatik,110,Normal,211,Batas Tinggi,0,Tidak,1,Normal,161,Tinggi,0,Tidak,0,2,Miring,0,,3,1,Ya
+55,Lansia,1,Laki-Laki,1,Angina tipikal,130,Pra Hipertensi,262,Tinggi,0,Tidak,1,Normal,155,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+37,Dewasa,0,Perempuan,2,Angina atipikal,120,Pra Hipertensi,215,Batas Tinggi,0,Tidak,1,Normal,170,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+41,Dewasa,1,Laki-Laki,2,Angina atipikal,130,Pra Hipertensi,214,Batas Tinggi,0,Tidak,0,Hipertrofi,168,Tinggi,0,Tidak,2,1,Datar,0,,2,1,Ya
+56,Lansia,1,Laki-Laki,3,Nyeri non-angina,120,Pra Hipertensi,193,Normal,0,Tidak,0,Hipertrofi,162,Tinggi,0,Tidak,1.9,1,Datar,0,,3,1,Ya
+46,Lansia,0,Perempuan,1,Angina tipikal,105,Normal,204,Batas Tinggi,0,Tidak,1,Normal,172,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+46,Lansia,0,Perempuan,0,asimtomatik,138,Pra Hipertensi,243,Tinggi,0,Tidak,0,Hipertrofi,152,Tinggi,1,Ya,0,1,Datar,0,,2,1,Ya
+64,Lansia,0,Perempuan,0,asimtomatik,130,Pra Hipertensi,303,Tinggi,0,Tidak,1,Normal,122,Normal,0,Tidak,2,1,Datar,2,Biasa,2,1,Ya
+59,Lansia,1,Laki-Laki,0,asimtomatik,138,Pra Hipertensi,271,Tinggi,0,Tidak,0,Hipertrofi,182,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+41,Dewasa,0,Perempuan,2,Angina atipikal,112,Normal,268,Tinggi,0,Tidak,0,Hipertrofi,172,Tinggi,1,Ya,0,2,Miring,0,,2,1,Ya
+54,Lansia,0,Perempuan,2,Angina atipikal,108,Normal,267,Tinggi,0,Tidak,0,Hipertrofi,167,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+39,Dewasa,0,Perempuan,2,Angina atipikal,94,Normal,199,Normal,0,Tidak,1,Normal,179,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+34,Dewasa,0,Perempuan,1,Angina tipikal,118,Normal,210,Batas Tinggi,0,Tidak,1,Normal,192,Tinggi,0,Tidak,0.7,2,Miring,0,,2,1,Ya
+47,Lansia,1,Laki-Laki,0,asimtomatik,112,Normal,204,Batas Tinggi,0,Tidak,1,Normal,143,Normal,0,Tidak,0.1,2,Miring,0,,2,1,Ya
+67,Manula,0,Perempuan,2,Angina atipikal,152,Hipertensi tingkat I,277,Tinggi,0,Tidak,1,Normal,172,Tinggi,0,Tidak,0,2,Miring,1,Cacat Tetap,2,1,Ya
+52,Lansia,0,Perempuan,2,Angina atipikal,136,Pra Hipertensi,196,Normal,0,Tidak,0,Hipertrofi,169,Tinggi,0,Tidak,0.1,1,Datar,0,,2,1,Ya
+74,Manula,0,Perempuan,1,Angina tipikal,120,Pra Hipertensi,269,Tinggi,0,Tidak,0,Hipertrofi,121,Normal,1,Ya,0.2,2,Miring,1,Cacat Tetap,2,1,Ya
+54,Lansia,0,Perempuan,2,Angina atipikal,160,Hipertensi tingkat II,201,Batas Tinggi,0,Tidak,1,Normal,163,Tinggi,0,Tidak,0,2,Miring,1,Cacat Tetap,2,1,Ya
+49,Lansia,0,Perempuan,1,Angina tipikal,134,Pra Hipertensi,271,Tinggi,0,Tidak,1,Normal,162,Tinggi,0,Tidak,0,1,Datar,0,,2,1,Ya
+42,Dewasa,1,Laki-Laki,1,Angina tipikal,120,Pra Hipertensi,295,Tinggi,0,Tidak,1,Normal,162,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+41,Dewasa,1,Laki-Laki,1,Angina tipikal,110,Normal,235,Batas Tinggi,0,Tidak,1,Normal,153,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+41,Dewasa,0,Perempuan,1,Angina tipikal,126,Pra Hipertensi,306,Tinggi,0,Tidak,1,Normal,163,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+49,Lansia,0,Perempuan,0,asimtomatik,130,Pra Hipertensi,269,Tinggi,0,Tidak,1,Normal,163,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+60,Lansia,0,Perempuan,2,Angina atipikal,120,Pra Hipertensi,178,Normal,1,Ya,1,Normal,96,Kurang,0,Tidak,0,2,Miring,0,,2,1,Ya
+62,Lansia,1,Laki-Laki,1,Angina tipikal,128,Pra Hipertensi,208,Batas Tinggi,1,Ya,0,Hipertrofi,140,Normal,0,Tidak,0,2,Miring,0,,2,1,Ya
+57,Lansia,1,Laki-Laki,0,asimtomatik,110,Normal,201,Batas Tinggi,0,Tidak,1,Normal,126,Normal,1,Ya,1.5,1,Datar,0,,1,1,Ya
+64,Lansia,1,Laki-Laki,0,asimtomatik,128,Pra Hipertensi,263,Tinggi,0,Tidak,1,Normal,105,Kurang,1,Ya,0.2,1,Datar,1,Cacat Tetap,3,1,Ya
+51,Lansia,0,Perempuan,2,Angina atipikal,120,Pra Hipertensi,295,Tinggi,0,Tidak,0,Hipertrofi,157,Tinggi,0,Tidak,0.6,2,Miring,0,,2,1,Ya
+43,Dewasa,1,Laki-Laki,0,asimtomatik,115,Normal,303,Tinggi,0,Tidak,1,Normal,181,Tinggi,0,Tidak,1.2,1,Datar,0,,2,1,Ya
+42,Dewasa,0,Perempuan,2,Angina atipikal,120,Pra Hipertensi,209,Batas Tinggi,0,Tidak,1,Normal,173,Tinggi,0,Tidak,0,1,Datar,0,,2,1,Ya
+67,Manula,0,Perempuan,0,asimtomatik,106,Normal,223,Batas Tinggi,0,Tidak,1,Normal,142,Normal,0,Tidak,0.3,2,Miring,2,Biasa,2,1,Ya
+76,Manula,0,Perempuan,2,Angina atipikal,140,Hipertensi tingkat I,197,Normal,0,Tidak,2,Memiliki Kelainan,116,Normal,0,Tidak,1.1,1,Datar,0,,2,1,Ya
+70,Manula,1,Laki-Laki,1,Angina tipikal,156,Hipertensi tingkat I,245,Tinggi,0,Tidak,0,Hipertrofi,143,Normal,0,Tidak,0,2,Miring,0,,2,1,Ya
+44,Dewasa,0,Perempuan,2,Angina atipikal,118,Normal,242,Tinggi,0,Tidak,1,Normal,149,Normal,0,Tidak,0.3,1,Datar,1,Cacat Tetap,2,1,Ya
+60,Lansia,0,Perempuan,3,Nyeri non-angina,150,Hipertensi tingkat I,240,Tinggi,0,Tidak,1,Normal,171,Tinggi,0,Tidak,0.9,2,Miring,0,,2,1,Ya
+44,Dewasa,1,Laki-Laki,2,Angina atipikal,120,Pra Hipertensi,226,Batas Tinggi,0,Tidak,1,Normal,169,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+42,Dewasa,1,Laki-Laki,2,Angina atipikal,130,Pra Hipertensi,180,Normal,0,Tidak,1,Normal,150,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+66,Manula,1,Laki-Laki,0,asimtomatik,160,Hipertensi tingkat II,228,Batas Tinggi,0,Tidak,0,Hipertrofi,138,Normal,0,Tidak,2.3,2,Miring,0,,1,1,Ya
+71,Manula,0,Perempuan,0,asimtomatik,112,Normal,149,Normal,0,Tidak,1,Normal,125,Normal,0,Tidak,1.6,1,Datar,0,,2,1,Ya
+64,Lansia,1,Laki-Laki,3,Nyeri non-angina,170,Hipertensi tingkat II,227,Batas Tinggi,0,Tidak,0,Hipertrofi,155,Tinggi,0,Tidak,0.6,1,Datar,0,,3,1,Ya
+66,Manula,0,Perempuan,2,Angina atipikal,146,Hipertensi tingkat I,278,Tinggi,0,Tidak,0,Hipertrofi,152,Tinggi,0,Tidak,0,1,Datar,1,Cacat Tetap,2,1,Ya
+39,Dewasa,0,Perempuan,2,Angina atipikal,138,Pra Hipertensi,220,Batas Tinggi,0,Tidak,1,Normal,152,Tinggi,0,Tidak,0,1,Datar,0,,2,1,Ya
+58,Lansia,0,Perempuan,0,asimtomatik,130,Pra Hipertensi,197,Normal,0,Tidak,1,Normal,131,Normal,0,Tidak,0.6,1,Datar,0,,2,1,Ya
+47,Lansia,1,Laki-Laki,2,Angina atipikal,130,Pra Hipertensi,253,Tinggi,0,Tidak,1,Normal,179,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+35,Dewasa,1,Laki-Laki,1,Angina tipikal,122,Pra Hipertensi,192,Normal,0,Tidak,1,Normal,174,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+58,Lansia,1,Laki-Laki,1,Angina tipikal,125,Pra Hipertensi,220,Batas Tinggi,0,Tidak,1,Normal,144,Normal,0,Tidak,0.4,1,Datar,4,Cacat  Reversibel,3,1,Ya
+56,Lansia,1,Laki-Laki,1,Angina tipikal,130,Pra Hipertensi,221,Batas Tinggi,0,Tidak,0,Hipertrofi,163,Tinggi,0,Tidak,0,2,Miring,0,,3,1,Ya
+56,Lansia,1,Laki-Laki,1,Angina tipikal,120,Pra Hipertensi,240,Tinggi,0,Tidak,1,Normal,169,Tinggi,0,Tidak,0,0,Menurun,0,,2,1,Ya
+55,Lansia,0,Perempuan,1,Angina tipikal,132,Pra Hipertensi,342,Tinggi,0,Tidak,1,Normal,166,Tinggi,0,Tidak,1.2,2,Miring,0,,2,1,Ya
+41,Dewasa,1,Laki-Laki,1,Angina tipikal,120,Pra Hipertensi,157,Normal,0,Tidak,1,Normal,182,Tinggi,0,Tidak,0,2,Miring,0,,2,1,Ya
+38,Dewasa,1,Laki-Laki,2,Angina atipikal,138,Pra Hipertensi,175,Normal,0,Tidak,1,Normal,173,Tinggi,0,Tidak,0,2,Miring,4,Cacat  Reversibel,2,1,Ya
+38,Dewasa,1,Laki-Laki,2,Angina atipikal,138,Pra Hipertensi,175,Normal,0,Tidak,1,Normal,173,Tinggi,0,Tidak,0,2,Miring,4,Cacat  Reversibel,2,1,Ya
+67,Manula,1,Laki-Laki,0,asimtomatik,160,Hipertensi tingkat II,286,Tinggi,0,Tidak,0,Hipertrofi,108,Kurang,1,Ya,1.5,1,Datar,3,Pracacat Reversibel,2,0,Tidak
+67,Manula,1,Laki-Laki,0,asimtomatik,120,Pra Hipertensi,229,Batas Tinggi,0,Tidak,0,Hipertrofi,129,Normal,1,Ya,2.6,1,Datar,2,Biasa,3,0,Tidak
+62,Lansia,0,Perempuan,0,asimtomatik,140,Hipertensi tingkat I,268,Tinggi,0,Tidak,0,Hipertrofi,160,Tinggi,0,Tidak,3.6,0,Menurun,2,Biasa,2,0,Tidak
+63,Lansia,1,Laki-Laki,0,asimtomatik,130,Pra Hipertensi,254,Tinggi,0,Tidak,0,Hipertrofi,147,Normal,0,Tidak,1.4,1,Datar,1,Cacat Tetap,3,0,Tidak
+53,Lansia,1,Laki-Laki,0,asimtomatik,140,Hipertensi tingkat I,203,Batas Tinggi,1,Ya,0,Hipertrofi,155,Tinggi,1,Ya,3.1,0,Menurun,0,,3,0,Tidak
+56,Lansia,1,Laki-Laki,2,Angina atipikal,130,Pra Hipertensi,256,Tinggi,1,Ya,0,Hipertrofi,142,Normal,1,Ya,0.6,1,Datar,1,Cacat Tetap,1,0,Tidak
+48,Lansia,1,Laki-Laki,1,Angina tipikal,110,Normal,229,Batas Tinggi,0,Tidak,1,Normal,168,Tinggi,0,Tidak,1,0,Menurun,0,,3,0,Tidak
+58,Lansia,1,Laki-Laki,1,Angina tipikal,120,Pra Hipertensi,284,Tinggi,0,Tidak,0,Hipertrofi,160,Tinggi,0,Tidak,1.8,1,Datar,0,,2,0,Tidak
+58,Lansia,1,Laki-Laki,2,Angina atipikal,132,Pra Hipertensi,224,Batas Tinggi,0,Tidak,0,Hipertrofi,173,Tinggi,0,Tidak,3.2,2,Miring,2,Biasa,3,0,Tidak
+60,Lansia,1,Laki-Laki,0,asimtomatik,130,Pra Hipertensi,206,Batas Tinggi,0,Tidak,0,Hipertrofi,132,Normal,1,Ya,2.4,1,Datar,2,Biasa,3,0,Tidak
+40,Dewasa,1,Laki-Laki,0,asimtomatik,110,Normal,167,Normal,0,Tidak,0,Hipertrofi,114,Normal,1,Ya,2,1,Datar,0,,3,0,Tidak
+60,Lansia,1,Laki-Laki,0,asimtomatik,117,Normal,230,Batas Tinggi,1,Ya,1,Normal,160,Tinggi,1,Ya,1.4,2,Miring,2,Biasa,3,0,Tidak
+64,Lansia,1,Laki-Laki,2,Angina atipikal,140,Hipertensi tingkat I,335,Tinggi,0,Tidak,1,Normal,158,Tinggi,0,Tidak,0,2,Miring,0,,2,0,Tidak
+43,Dewasa,1,Laki-Laki,0,asimtomatik,120,Pra Hipertensi,177,Normal,0,Tidak,0,Hipertrofi,120,Normal,1,Ya,2.5,1,Datar,0,,3,0,Tidak
+57,Lansia,1,Laki-Laki,0,asimtomatik,150,Hipertensi tingkat I,276,Tinggi,0,Tidak,0,Hipertrofi,112,Normal,1,Ya,0.6,1,Datar,1,Cacat Tetap,1,0,Tidak
+55,Lansia,1,Laki-Laki,0,asimtomatik,132,Pra Hipertensi,353,Tinggi,0,Tidak,1,Normal,132,Normal,1,Ya,1.2,1,Datar,1,Cacat Tetap,3,0,Tidak
+65,Manula,0,Perempuan,0,asimtomatik,150,Hipertensi tingkat I,225,Batas Tinggi,0,Tidak,0,Hipertrofi,114,Normal,0,Tidak,1,1,Datar,3,Pracacat Reversibel,3,0,Tidak
+61,Lansia,0,Perempuan,0,asimtomatik,130,Pra Hipertensi,330,Tinggi,0,Tidak,0,Hipertrofi,169,Tinggi,0,Tidak,0,2,Miring,0,,2,0,Tidak
+58,Lansia,1,Laki-Laki,2,Angina atipikal,112,Normal,230,Batas Tinggi,0,Tidak,0,Hipertrofi,165,Tinggi,0,Tidak,2.5,1,Datar,1,Cacat Tetap,3,0,Tidak
+50,Lansia,1,Laki-Laki,0,asimtomatik,150,Hipertensi tingkat I,243,Tinggi,0,Tidak,0,Hipertrofi,128,Normal,0,Tidak,2.6,1,Datar,0,,3,0,Tidak
+44,Dewasa,1,Laki-Laki,0,asimtomatik,112,Normal,290,Tinggi,0,Tidak,0,Hipertrofi,153,Tinggi,0,Tidak,0,2,Miring,1,Cacat Tetap,2,0,Tidak
+60,Lansia,1,Laki-Laki,0,asimtomatik,130,Pra Hipertensi,253,Tinggi,0,Tidak,1,Normal,144,Normal,1,Ya,1.4,2,Miring,1,Cacat Tetap,3,0,Tidak
+54,Lansia,1,Laki-Laki,0,asimtomatik,124,Pra Hipertensi,266,Tinggi,0,Tidak,0,Hipertrofi,109,Kurang,1,Ya,2.2,1,Datar,1,Cacat Tetap,3,0,Tidak
+50,Lansia,1,Laki-Laki,2,Angina atipikal,140,Hipertensi tingkat I,233,Batas Tinggi,0,Tidak,1,Normal,163,Tinggi,0,Tidak,0.6,1,Datar,1,Cacat Tetap,3,0,Tidak
+41,Dewasa,1,Laki-Laki,0,asimtomatik,110,Normal,172,Normal,0,Tidak,0,Hipertrofi,158,Tinggi,0,Tidak,0,2,Miring,0,,3,0,Tidak
+51,Lansia,0,Perempuan,0,asimtomatik,130,Pra Hipertensi,305,Tinggi,0,Tidak,1,Normal,142,Normal,1,Ya,1.2,1,Datar,0,,3,0,Tidak
+58,Lansia,1,Laki-Laki,0,asimtomatik,128,Pra Hipertensi,216,Batas Tinggi,0,Tidak,0,Hipertrofi,131,Normal,1,Ya,2.2,1,Datar,3,Pracacat Reversibel,3,0,Tidak
+54,Lansia,1,Laki-Laki,0,asimtomatik,120,Pra Hipertensi,188,Normal,0,Tidak,1,Normal,113,Normal,0,Tidak,1.4,1,Datar,1,Cacat Tetap,3,0,Tidak
+60,Lansia,1,Laki-Laki,0,asimtomatik,145,Hipertensi tingkat I,282,Tinggi,0,Tidak,0,Hipertrofi,142,Normal,1,Ya,2.8,1,Datar,2,Biasa,3,0,Tidak
+60,Lansia,1,Laki-Laki,2,Angina atipikal,140,Hipertensi tingkat I,185,Normal,0,Tidak,0,Hipertrofi,155,Tinggi,0,Tidak,3,1,Datar,0,,2,0,Tidak
+59,Lansia,1,Laki-Laki,0,asimtomatik,170,Hipertensi tingkat II,326,Tinggi,0,Tidak,0,Hipertrofi,140,Normal,1,Ya,3.4,0,Menurun,0,,3,0,Tidak
+46,Lansia,1,Laki-Laki,2,Angina atipikal,150,Hipertensi tingkat I,231,Batas Tinggi,0,Tidak,1,Normal,147,Normal,0,Tidak,3.6,1,Datar,0,,2,0,Tidak
+67,Manula,1,Laki-Laki,0,asimtomatik,125,Pra Hipertensi,254,Tinggi,1,Ya,1,Normal,163,Tinggi,0,Tidak,0.2,1,Datar,2,Biasa,3,0,Tidak
+62,Lansia,1,Laki-Laki,0,asimtomatik,120,Pra Hipertensi,267,Tinggi,0,Tidak,1,Normal,99,Kurang,1,Ya,1.8,1,Datar,2,Biasa,3,0,Tidak
+65,Manula,1,Laki-Laki,0,asimtomatik,110,Normal,248,Tinggi,0,Tidak,0,Hipertrofi,158,Tinggi,0,Tidak,0.6,2,Miring,2,Biasa,1,0,Tidak
+44,Dewasa,1,Laki-Laki,0,asimtomatik,110,Normal,197,Normal,0,Tidak,0,Hipertrofi,177,Tinggi,0,Tidak,0,2,Miring,1,Cacat Tetap,2,0,Tidak
+60,Lansia,1,Laki-Laki,0,asimtomatik,125,Pra Hipertensi,258,Tinggi,0,Tidak,0,Hipertrofi,141,Normal,1,Ya,2.8,1,Datar,1,Cacat Tetap,3,0,Tidak
+58,Lansia,1,Laki-Laki,0,asimtomatik,150,Hipertensi tingkat I,270,Tinggi,0,Tidak,0,Hipertrofi,111,Normal,1,Ya,0.8,2,Miring,0,,3,0,Tidak
+68,Manula,1,Laki-Laki,2,Angina atipikal,180,Hipertensi tingkat II,274,Tinggi,1,Ya,0,Hipertrofi,150,Tinggi,1,Ya,1.6,1,Datar,0,,3,0,Tidak
+62,Lansia,0,Perempuan,0,asimtomatik,160,Hipertensi tingkat II,164,Normal,0,Tidak,0,Hipertrofi,145,Normal,0,Tidak,6.2,0,Menurun,3,Pracacat Reversibel,3,0,Tidak
+52,Lansia,1,Laki-Laki,0,asimtomatik,128,Pra Hipertensi,255,Tinggi,0,Tidak,1,Normal,161,Tinggi,1,Ya,0,2,Miring,1,Cacat Tetap,3,0,Tidak
+59,Lansia,1,Laki-Laki,0,asimtomatik,110,Normal,239,Batas Tinggi,0,Tidak,0,Hipertrofi,142,Normal,1,Ya,1.2,1,Datar,1,Cacat Tetap,3,0,Tidak
+60,Lansia,0,Perempuan,0,asimtomatik,150,Hipertensi tingkat I,258,Tinggi,0,Tidak,0,Hipertrofi,157,Tinggi,0,Tidak,2.6,1,Datar,2,Biasa,3,0,Tidak
+49,Lansia,1,Laki-Laki,2,Angina atipikal,120,Pra Hipertensi,188,Normal,0,Tidak,1,Normal,139,Normal,0,Tidak,2,1,Datar,3,Pracacat Reversibel,3,0,Tidak
+59,Lansia,1,Laki-Laki,0,asimtomatik,140,Hipertensi tingkat I,177,Normal,0,Tidak,1,Normal,162,Tinggi,1,Ya,0,2,Miring,1,Cacat Tetap,3,0,Tidak
+57,Lansia,1,Laki-Laki,2,Angina atipikal,128,Pra Hipertensi,229,Batas Tinggi,0,Tidak,0,Hipertrofi,150,Tinggi,0,Tidak,0.4,1,Datar,1,Cacat Tetap,3,0,Tidak
+61,Lansia,1,Laki-Laki,0,asimtomatik,120,Pra Hipertensi,260,Tinggi,0,Tidak,1,Normal,140,Normal,1,Ya,3.6,1,Datar,1,Cacat Tetap,3,0,Tidak
+39,Dewasa,1,Laki-Laki,0,asimtomatik,118,Normal,219,Batas Tinggi,0,Tidak,1,Normal,140,Normal,0,Tidak,1.2,1,Datar,0,,3,0,Tidak
+61,Lansia,0,Perempuan,0,asimtomatik,145,Hipertensi tingkat I,307,Tinggi,0,Tidak,0,Hipertrofi,146,Normal,1,Ya,1,1,Datar,0,,3,0,Tidak
+56,Lansia,1,Laki-Laki,0,asimtomatik,125,Pra Hipertensi,249,Tinggi,1,Ya,0,Hipertrofi,144,Normal,1,Ya,1.2,1,Datar,1,Cacat Tetap,2,0,Tidak
+43,Dewasa,0,Perempuan,0,asimtomatik,132,Pra Hipertensi,341,Tinggi,1,Ya,0,Hipertrofi,136,Normal,1,Ya,3,1,Datar,0,,3,0,Tidak
+62,Lansia,0,Perempuan,2,Angina atipikal,130,Pra Hipertensi,263,Tinggi,0,Tidak,1,Normal,97,Kurang,0,Tidak,1.2,1,Datar,1,Cacat Tetap,3,0,Tidak
+63,Lansia,1,Laki-Laki,0,asimtomatik,130,Pra Hipertensi,330,Tinggi,1,Ya,0,Hipertrofi,132,Normal,1,Ya,1.8,2,Miring,3,Pracacat Reversibel,3,0,Tidak
+65,Manula,1,Laki-Laki,0,asimtomatik,135,Pra Hipertensi,254,Tinggi,0,Tidak,0,Hipertrofi,127,Normal,0,Tidak,2.8,1,Datar,1,Cacat Tetap,3,0,Tidak
+48,Lansia,1,Laki-Laki,0,asimtomatik,130,Pra Hipertensi,256,Tinggi,1,Ya,0,Hipertrofi,150,Tinggi,1,Ya,0,2,Miring,2,Biasa,3,0,Tidak
+63,Lansia,0,Perempuan,0,asimtomatik,150,Hipertensi tingkat I,407,Tinggi,0,Tidak,0,Hipertrofi,154,Tinggi,0,Tidak,4,1,Datar,3,Pracacat Reversibel,3,0,Tidak
+55,Lansia,1,Laki-Laki,0,asimtomatik,140,Hipertensi tingkat I,217,Batas Tinggi,0,Tidak,1,Normal,111,Normal,1,Ya,5.6,0,Menurun,0,,3,0,Tidak
+65,Manula,1,Laki-Laki,3,Nyeri non-angina,138,Pra Hipertensi,282,Tinggi,1,Ya,0,Hipertrofi,174,Tinggi,0,Tidak,1.4,1,Datar,1,Cacat Tetap,2,0,Tidak
+56,Lansia,0,Perempuan,0,asimtomatik,200,Hipertensi tingkat II,288,Tinggi,1,Ya,0,Hipertrofi,133,Normal,1,Ya,4,0,Menurun,2,Biasa,3,0,Tidak
+54,Lansia,1,Laki-Laki,0,asimtomatik,110,Normal,239,Batas Tinggi,0,Tidak,1,Normal,126,Normal,1,Ya,2.8,1,Datar,1,Cacat Tetap,3,0,Tidak
+70,Manula,1,Laki-Laki,0,asimtomatik,145,Hipertensi tingkat I,174,Normal,0,Tidak,1,Normal,125,Normal,1,Ya,2.6,0,Menurun,0,,3,0,Tidak
+62,Lansia,1,Laki-Laki,1,Angina tipikal,120,Pra Hipertensi,281,Tinggi,0,Tidak,0,Hipertrofi,103,Kurang,0,Tidak,1.4,1,Datar,1,Cacat Tetap,3,0,Tidak
+35,Dewasa,1,Laki-Laki,0,asimtomatik,120,Pra Hipertensi,198,Normal,0,Tidak,1,Normal,130,Normal,1,Ya,1.6,1,Datar,0,,3,0,Tidak
+59,Lansia,1,Laki-Laki,3,Nyeri non-angina,170,Hipertensi tingkat II,288,Tinggi,0,Tidak,0,Hipertrofi,159,Tinggi,0,Tidak,0.2,1,Datar,0,,3,0,Tidak
+64,Lansia,1,Laki-Laki,2,Angina atipikal,125,Pra Hipertensi,309,Tinggi,0,Tidak,1,Normal,131,Normal,1,Ya,1.8,1,Datar,0,,3,0,Tidak
+47,Lansia,1,Laki-Laki,2,Angina atipikal,108,Normal,243,Tinggi,0,Tidak,1,Normal,152,Tinggi,0,Tidak,0,2,Miring,0,,2,0,Tidak
+57,Lansia,1,Laki-Laki,0,asimtomatik,165,Hipertensi tingkat II,289,Tinggi,1,Ya,0,Hipertrofi,124,Normal,0,Tidak,1,1,Datar,3,Pracacat Reversibel,3,0,Tidak
+55,Lansia,1,Laki-Laki,0,asimtomatik,160,Hipertensi tingkat II,289,Tinggi,0,Tidak,0,Hipertrofi,145,Normal,1,Ya,0.8,1,Datar,1,Cacat Tetap,3,0,Tidak
+64,Lansia,1,Laki-Laki,0,asimtomatik,120,Pra Hipertensi,246,Tinggi,0,Tidak,0,Hipertrofi,96,Kurang,1,Ya,2.2,0,Menurun,1,Cacat Tetap,2,0,Tidak
+70,Manula,1,Laki-Laki,0,asimtomatik,130,Pra Hipertensi,322,Tinggi,0,Tidak,0,Hipertrofi,109,Kurang,0,Tidak,2.4,1,Datar,3,Pracacat Reversibel,2,0,Tidak
+51,Lansia,1,Laki-Laki,0,asimtomatik,140,Hipertensi tingkat I,299,Tinggi,0,Tidak,1,Normal,173,Tinggi,1,Ya,1.6,2,Miring,0,,3,0,Tidak
+58,Lansia,1,Laki-Laki,0,asimtomatik,125,Pra Hipertensi,300,Tinggi,0,Tidak,0,Hipertrofi,171,Tinggi,0,Tidak,0,2,Miring,2,Biasa,3,0,Tidak
+60,Lansia,1,Laki-Laki,0,asimtomatik,140,Hipertensi tingkat I,293,Tinggi,0,Tidak,0,Hipertrofi,170,Tinggi,0,Tidak,1.2,1,Datar,2,Biasa,3,0,Tidak
+77,Manula,1,Laki-Laki,0,asimtomatik,125,Pra Hipertensi,304,Tinggi,0,Tidak,0,Hipertrofi,162,Tinggi,1,Ya,0,2,Miring,3,Pracacat Reversibel,2,0,Tidak
+35,Dewasa,1,Laki-Laki,0,asimtomatik,126,Pra Hipertensi,282,Tinggi,0,Tidak,0,Hipertrofi,156,Tinggi,1,Ya,0,2,Miring,0,,3,0,Tidak
+70,Manula,1,Laki-Laki,2,Angina atipikal,160,Hipertensi tingkat II,269,Tinggi,0,Tidak,1,Normal,112,Normal,1,Ya,2.9,1,Datar,1,Cacat Tetap,3,0,Tidak
+59,Lansia,0,Perempuan,0,asimtomatik,174,Hipertensi tingkat II,249,Tinggi,0,Tidak,1,Normal,143,Normal,1,Ya,0,1,Datar,0,,2,0,Tidak
+64,Lansia,1,Laki-Laki,0,asimtomatik,145,Hipertensi tingkat I,212,Batas Tinggi,0,Tidak,0,Hipertrofi,132,Normal,0,Tidak,2,1,Datar,2,Biasa,1,0,Tidak
+57,Lansia,1,Laki-Laki,0,asimtomatik,152,Hipertensi tingkat I,274,Tinggi,0,Tidak,1,Normal,88,Kurang,1,Ya,1.2,1,Datar,1,Cacat Tetap,3,0,Tidak
+56,Lansia,1,Laki-Laki,0,asimtomatik,132,Pra Hipertensi,184,Normal,0,Tidak,0,Hipertrofi,105,Kurang,1,Ya,2.1,1,Datar,1,Cacat Tetap,1,0,Tidak
+48,Lansia,1,Laki-Laki,0,asimtomatik,124,Pra Hipertensi,274,Tinggi,0,Tidak,0,Hipertrofi,166,Tinggi,0,Tidak,0.5,1,Datar,0,,3,0,Tidak
+56,Lansia,0,Perempuan,0,asimtomatik,134,Pra Hipertensi,409,Tinggi,0,Tidak,0,Hipertrofi,150,Tinggi,1,Ya,1.9,1,Datar,2,Biasa,3,0,Tidak
+66,Manula,1,Laki-Laki,1,Angina tipikal,160,Hipertensi tingkat II,246,Tinggi,0,Tidak,1,Normal,120,Normal,1,Ya,0,1,Datar,3,Pracacat Reversibel,1,0,Tidak
+54,Lansia,1,Laki-Laki,1,Angina tipikal,192,Hipertensi tingkat II,283,Tinggi,0,Tidak,0,Hipertrofi,195,Tinggi,0,Tidak,0,2,Miring,1,Cacat Tetap,3,0,Tidak
+69,Manula,1,Laki-Laki,2,Angina atipikal,140,Hipertensi tingkat I,254,Tinggi,0,Tidak,0,Hipertrofi,146,Normal,0,Tidak,2,1,Datar,3,Pracacat Reversibel,3,0,Tidak
+51,Lansia,1,Laki-Laki,0,asimtomatik,140,Hipertensi tingkat I,298,Tinggi,0,Tidak,1,Normal,122,Normal,1,Ya,4.2,1,Datar,3,Pracacat Reversibel,3,0,Tidak
+43,Dewasa,1,Laki-Laki,0,asimtomatik,132,Pra Hipertensi,247,Tinggi,1,Ya,0,Hipertrofi,143,Normal,1,Ya,0.1,1,Datar,4,Cacat  Reversibel,3,0,Tidak
+62,Lansia,0,Perempuan,0,asimtomatik,138,Pra Hipertensi,294,Tinggi,1,Ya,1,Normal,106,Kurang,0,Tidak,1.9,1,Datar,3,Pracacat Reversibel,2,0,Tidak
+67,Manula,1,Laki-Laki,0,asimtomatik,100,Normal,299,Tinggi,0,Tidak,0,Hipertrofi,125,Normal,1,Ya,0.9,1,Datar,2,Biasa,2,0,Tidak
+59,Lansia,1,Laki-Laki,3,Nyeri non-angina,160,Hipertensi tingkat II,273,Tinggi,0,Tidak,0,Hipertrofi,125,Normal,0,Tidak,0,2,Miring,0,,2,0,Tidak
+45,Dewasa,1,Laki-Laki,0,asimtomatik,142,Hipertensi tingkat I,309,Tinggi,0,Tidak,0,Hipertrofi,147,Normal,1,Ya,0,1,Datar,3,Pracacat Reversibel,3,0,Tidak
+58,Lansia,1,Laki-Laki,0,asimtomatik,128,Pra Hipertensi,259,Tinggi,0,Tidak,0,Hipertrofi,130,Normal,1,Ya,3,1,Datar,2,Biasa,3,0,Tidak
+50,Lansia,1,Laki-Laki,0,asimtomatik,144,Hipertensi tingkat I,200,Batas Tinggi,0,Tidak,0,Hipertrofi,126,Normal,1,Ya,0.9,1,Datar,0,,3,0,Tidak
+62,Lansia,0,Perempuan,0,asimtomatik,150,Hipertensi tingkat I,244,Tinggi,0,Tidak,1,Normal,154,Tinggi,1,Ya,1.4,1,Datar,0,,2,0,Tidak
+38,Dewasa,1,Laki-Laki,3,Nyeri non-angina,120,Pra Hipertensi,231,Batas Tinggi,0,Tidak,1,Normal,182,Tinggi,1,Ya,3.8,1,Datar,0,,3,0,Tidak
+66,Manula,0,Perempuan,0,asimtomatik,178,Hipertensi tingkat II,228,Batas Tinggi,1,Ya,1,Normal,165,Tinggi,1,Ya,1,1,Datar,2,Biasa,3,0,Tidak
+52,Lansia,1,Laki-Laki,0,asimtomatik,112,Normal,230,Batas Tinggi,0,Tidak,1,Normal,160,Tinggi,0,Tidak,0,2,Miring,1,Cacat Tetap,2,0,Tidak
+53,Lansia,1,Laki-Laki,0,asimtomatik,123,Pra Hipertensi,282,Tinggi,0,Tidak,1,Normal,95,Kurang,1,Ya,2,1,Datar,2,Biasa,3,0,Tidak
+63,Lansia,0,Perempuan,0,asimtomatik,108,Normal,269,Tinggi,0,Tidak,1,Normal,169,Tinggi,1,Ya,1.8,1,Datar,2,Biasa,2,0,Tidak
+54,Lansia,1,Laki-Laki,0,asimtomatik,110,Normal,206,Batas Tinggi,0,Tidak,0,Hipertrofi,108,Kurang,1,Ya,0,1,Datar,1,Cacat Tetap,2,0,Tidak
+66,Manula,1,Laki-Laki,0,asimtomatik,112,Normal,212,Batas Tinggi,0,Tidak,0,Hipertrofi,132,Normal,1,Ya,0.1,2,Miring,1,Cacat Tetap,2,0,Tidak
+55,Lansia,0,Perempuan,0,asimtomatik,180,Hipertensi tingkat II,327,Tinggi,0,Tidak,2,Memiliki Kelainan,117,Normal,1,Ya,3.4,1,Datar,0,,2,0,Tidak
+49,Lansia,1,Laki-Laki,2,Angina atipikal,118,Normal,149,Normal,0,Tidak,0,Hipertrofi,126,Normal,0,Tidak,0.8,2,Miring,3,Pracacat Reversibel,2,0,Tidak
+54,Lansia,1,Laki-Laki,0,asimtomatik,122,Pra Hipertensi,286,Tinggi,0,Tidak,0,Hipertrofi,116,Normal,1,Ya,3.2,1,Datar,2,Biasa,2,0,Tidak
+56,Lansia,1,Laki-Laki,0,asimtomatik,130,Pra Hipertensi,283,Tinggi,1,Ya,0,Hipertrofi,103,Kurang,1,Ya,1.6,0,Menurun,0,,3,0,Tidak
+46,Lansia,1,Laki-Laki,0,asimtomatik,120,Pra Hipertensi,249,Tinggi,0,Tidak,0,Hipertrofi,144,Normal,0,Tidak,0.8,2,Miring,0,,3,0,Tidak
+61,Lansia,1,Laki-Laki,3,Nyeri non-angina,134,Pra Hipertensi,234,Batas Tinggi,0,Tidak,1,Normal,145,Normal,0,Tidak,2.6,1,Datar,2,Biasa,2,0,Tidak
+67,Manula,1,Laki-Laki,0,asimtomatik,120,Pra Hipertensi,237,Batas Tinggi,0,Tidak,1,Normal,71,Kurang,0,Tidak,1,1,Datar,0,,2,0,Tidak
+58,Lansia,1,Laki-Laki,0,asimtomatik,100,Normal,234,Batas Tinggi,0,Tidak,1,Normal,156,Tinggi,0,Tidak,0.1,2,Miring,1,Cacat Tetap,3,0,Tidak
+47,Lansia,1,Laki-Laki,0,asimtomatik,110,Normal,275,Tinggi,0,Tidak,0,Hipertrofi,118,Normal,1,Ya,1,1,Datar,1,Cacat Tetap,2,0,Tidak
+52,Lansia,1,Laki-Laki,0,asimtomatik,125,Pra Hipertensi,212,Batas Tinggi,0,Tidak,1,Normal,168,Tinggi,0,Tidak,1,2,Miring,2,Biasa,3,0,Tidak
+58,Lansia,1,Laki-Laki,0,asimtomatik,146,Hipertensi tingkat I,218,Batas Tinggi,0,Tidak,1,Normal,105,Kurang,0,Tidak,2,1,Datar,1,Cacat Tetap,3,0,Tidak
+57,Lansia,1,Laki-Laki,1,Angina tipikal,124,Pra Hipertensi,261,Tinggi,0,Tidak,1,Normal,141,Normal,0,Tidak,0.3,2,Miring,0,,3,0,Tidak
+58,Lansia,0,Perempuan,1,Angina tipikal,136,Pra Hipertensi,319,Tinggi,1,Ya,0,Hipertrofi,152,Tinggi,0,Tidak,0,2,Miring,2,Biasa,2,0,Tidak
+61,Lansia,1,Laki-Laki,0,asimtomatik,138,Pra Hipertensi,166,Normal,0,Tidak,0,Hipertrofi,125,Normal,1,Ya,3.6,1,Datar,1,Cacat Tetap,2,0,Tidak
+42,Dewasa,1,Laki-Laki,0,asimtomatik,136,Pra Hipertensi,315,Tinggi,0,Tidak,1,Normal,125,Normal,1,Ya,1.8,1,Datar,0,,1,0,Tidak
+52,Lansia,1,Laki-Laki,0,asimtomatik,128,Pra Hipertensi,204,Batas Tinggi,1,Ya,1,Normal,156,Tinggi,1,Ya,1,1,Datar,0,,0,0,Tidak
+59,Lansia,1,Laki-Laki,2,Angina atipikal,126,Pra Hipertensi,218,Batas Tinggi,1,Ya,1,Normal,134,Normal,0,Tidak,2.2,1,Datar,1,Cacat Tetap,1,0,Tidak
+40,Dewasa,1,Laki-Laki,0,asimtomatik,152,Hipertensi tingkat I,223,Batas Tinggi,0,Tidak,1,Normal,181,Tinggi,0,Tidak,0,2,Miring,0,,3,0,Tidak
+61,Lansia,1,Laki-Laki,0,asimtomatik,140,Hipertensi tingkat I,207,Batas Tinggi,0,Tidak,0,Hipertrofi,138,Normal,1,Ya,1.9,2,Miring,1,Cacat Tetap,3,0,Tidak
+46,Lansia,1,Laki-Laki,0,asimtomatik,140,Hipertensi tingkat I,311,Tinggi,0,Tidak,1,Normal,120,Normal,1,Ya,1.8,1,Datar,2,Biasa,3,0,Tidak
+59,Lansia,1,Laki-Laki,3,Nyeri non-angina,134,Pra Hipertensi,204,Batas Tinggi,0,Tidak,1,Normal,162,Tinggi,0,Tidak,0.8,2,Miring,2,Biasa,2,0,Tidak
+57,Lansia,1,Laki-Laki,1,Angina tipikal,154,Hipertensi tingkat I,232,Batas Tinggi,0,Tidak,0,Hipertrofi,164,Tinggi,0,Tidak,0,2,Miring,1,Cacat Tetap,2,0,Tidak
+57,Lansia,1,Laki-Laki,0,asimtomatik,110,Normal,335,Tinggi,0,Tidak,1,Normal,143,Normal,1,Ya,3,1,Datar,1,Cacat Tetap,3,0,Tidak
+55,Lansia,0,Perempuan,0,asimtomatik,128,Pra Hipertensi,205,Batas Tinggi,0,Tidak,2,Memiliki Kelainan,130,Normal,1,Ya,2,1,Datar,1,Cacat Tetap,3,0,Tidak
+61,Lansia,1,Laki-Laki,0,asimtomatik,148,Hipertensi tingkat I,203,Batas Tinggi,0,Tidak,1,Normal,161,Tinggi,0,Tidak,0,2,Miring,1,Cacat Tetap,3,0,Tidak
+58,Lansia,1,Laki-Laki,0,asimtomatik,114,Normal,318,Tinggi,0,Tidak,2,Memiliki Kelainan,140,Normal,0,Tidak,4.4,0,Menurun,3,Pracacat Reversibel,1,0,Tidak
+58,Lansia,0,Perempuan,0,asimtomatik,170,Hipertensi tingkat II,225,Batas Tinggi,1,Ya,0,Hipertrofi,146,Normal,1,Ya,2.8,1,Datar,2,Biasa,1,0,Tidak
+67,Manula,1,Laki-Laki,2,Angina atipikal,152,Hipertensi tingkat I,212,Batas Tinggi,0,Tidak,0,Hipertrofi,150,Tinggi,0,Tidak,0.8,1,Datar,0,,3,0,Tidak
+44,Dewasa,1,Laki-Laki,0,asimtomatik,120,Pra Hipertensi,169,Normal,0,Tidak,1,Normal,144,Normal,1,Ya,2.8,0,Menurun,0,,1,0,Tidak
+63,Lansia,1,Laki-Laki,0,asimtomatik,140,Hipertensi tingkat I,187,Normal,0,Tidak,0,Hipertrofi,144,Normal,1,Ya,4,2,Miring,2,Biasa,3,0,Tidak
+63,Lansia,0,Perempuan,0,asimtomatik,124,Pra Hipertensi,197,Normal,0,Tidak,1,Normal,136,Normal,1,Ya,0,1,Datar,0,,2,0,Tidak
+59,Lansia,1,Laki-Laki,0,asimtomatik,164,Hipertensi tingkat II,176,Normal,1,Ya,0,Hipertrofi,90,Kurang,0,Tidak,1,1,Datar,2,Biasa,1,0,Tidak
+57,Lansia,0,Perempuan,0,asimtomatik,140,Hipertensi tingkat I,241,Tinggi,0,Tidak,1,Normal,123,Normal,1,Ya,0.2,1,Datar,0,,3,0,Tidak
+45,Dewasa,1,Laki-Laki,3,Nyeri non-angina,110,Normal,264,Tinggi,0,Tidak,1,Normal,132,Normal,0,Tidak,1.2,1,Datar,0,,3,0,Tidak
+68,Manula,1,Laki-Laki,0,asimtomatik,144,Hipertensi tingkat I,193,Normal,1,Ya,1,Normal,141,Normal,0,Tidak,3.4,1,Datar,2,Biasa,3,0,Tidak
+57,Lansia,1,Laki-Laki,0,asimtomatik,130,Pra Hipertensi,131,Normal,0,Tidak,1,Normal,115,Normal,1,Ya,1.2,1,Datar,1,Cacat Tetap,3,0,Tidak
+57,Lansia,0,Perempuan,1,Angina tipikal,130,Pra Hipertensi,236,Batas Tinggi,0,Tidak,0,Hipertrofi,174,Tinggi,0,Tidak,0,1,Datar,1,Cacat Tetap,2,0,Tidak

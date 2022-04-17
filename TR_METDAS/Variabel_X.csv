@@ -1,0 +1,304 @@
+Umur,Jenis Kelamin,Jenis nyeri dada,Tekanan Darah,Kolestrol,Gula Darah Puasa > 120 mg,Detak jantung maksimum,Angina akibat olahraga,Kemiringan segmen ST
+Lansia,Laki-Laki,Nyeri non-angina,Hipertensi tingkat I,Batas Tinggi,Ya,Tinggi,Tidak,Menurun
+Dewasa,Laki-Laki,Angina atipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Menurun
+Dewasa,Perempuan,Angina tipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Tinggi,Ya,Miring
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Normal,Tidak,Normal,Tidak,Datar
+Lansia,Perempuan,Angina tipikal,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Tidak,Datar
+Dewasa,Laki-Laki,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Hipertensi tingkat II,Normal,Ya,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Normal,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,Angina atipikal,Pra Hipertensi,Tinggi,Tidak,Normal,Tidak,Miring
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Nyeri non-angina,Normal,Batas Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Perempuan,Nyeri non-angina,Hipertensi tingkat I,Tinggi,Ya,Tinggi,Tidak,Miring
+Lansia,Perempuan,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Perempuan,Angina atipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Manula,Perempuan,Nyeri non-angina,Hipertensi tingkat I,Batas Tinggi,Tidak,Normal,Tidak,Menurun
+Dewasa,Laki-Laki,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Tidak,Miring
+Manula,Perempuan,Nyeri non-angina,Hipertensi tingkat I,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
+Dewasa,Laki-Laki,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Ya,Miring
+Dewasa,Laki-Laki,asimtomatik,Hipertensi tingkat I,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Tinggi,Ya,Normal,Ya,Datar
+Dewasa,Laki-Laki,Nyeri non-angina,Hipertensi tingkat I,Normal,Tidak,Tinggi,Ya,Miring
+Manula,Perempuan,Angina tipikal,Hipertensi tingkat II,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Batas Tinggi,Ya,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Normal,Normal,Tidak,Normal,Tidak,Miring
+Manula,Perempuan,Angina atipikal,Hipertensi tingkat I,Tinggi,Ya,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Normal,Ya,Tinggi,Tidak,Menurun
+Dewasa,Perempuan,Angina tipikal,Normal,Normal,Tidak,Tinggi,Tidak,Miring
+Manula,Laki-Laki,asimtomatik,Pra Hipertensi,Normal,Tidak,Normal,Tidak,Miring
+Dewasa,Laki-Laki,Angina tipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Menurun
+Lansia,Laki-Laki,Nyeri non-angina,Pra Hipertensi,Batas Tinggi,Tidak,Normal,Ya,Miring
+Lansia,Perempuan,Angina atipikal,Hipertensi tingkat I,Normal,Tidak,Tinggi,Ya,Menurun
+Lansia,Perempuan,Angina atipikal,Pra Hipertensi,Tinggi,Ya,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Manula,Perempuan,Angina atipikal,Hipertensi tingkat I,Tinggi,Tidak,Normal,Tidak,Miring
+Manula,Perempuan,Angina atipikal,Hipertensi tingkat II,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,Angina atipikal,Hipertensi tingkat I,Tinggi,Tidak,Normal,Tidak,Miring
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Datar
+Dewasa,Laki-Laki,asimtomatik,Normal,Batas Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Normal,Tidak,Datar
+Dewasa,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Normal,Tidak,Miring
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,Angina atipikal,Pra Hipertensi,Tinggi,Tidak,Normal,Tidak,Miring
+Manula,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Normal,Tidak,Datar
+Dewasa,Perempuan,Angina atipikal,Normal,Normal,Tidak,Tinggi,Tidak,Datar
+Lansia,Perempuan,Angina atipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,asimtomatik,Normal,Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,Nyeri non-angina,Normal,Normal,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Manula,Perempuan,Angina atipikal,Normal,Tinggi,Ya,Normal,Tidak,Miring
+Lansia,Laki-Laki,Angina tipikal,Normal,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Nyeri non-angina,Normal,Normal,Tidak,Tinggi,Tidak,Datar
+Dewasa,Laki-Laki,Angina tipikal,Pra Hipertensi,Batas Tinggi,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Batas Tinggi,Ya,Tinggi,Tidak,Miring
+Dewasa,Perempuan,asimtomatik,Pra Hipertensi,Normal,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Normal,Batas Tinggi,Tidak,Normal,Ya,Datar
+Dewasa,Perempuan,Angina tipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
+Dewasa,Laki-Laki,Angina tipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Tinggi,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,Angina atipikal,Normal,Batas Tinggi,Tidak,Tinggi,Ya,Miring
+Dewasa,Laki-Laki,Angina tipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Ya,Miring
+Dewasa,Perempuan,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Perempuan,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Tinggi,Ya,Tinggi,Tidak,Datar
+Lansia,Laki-Laki,Angina tipikal,Hipertensi tingkat I,Batas Tinggi,Tidak,Tinggi,Ya,Miring
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Batas Tinggi,Ya,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Normal,Tinggi,Tidak,Tinggi,Ya,Datar
+Dewasa,Laki-Laki,Angina atipikal,Normal,Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,Angina atipikal,Normal,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Nyeri non-angina,Hipertensi tingkat I,Tinggi,Ya,Tinggi,Tidak,Datar
+Dewasa,Perempuan,asimtomatik,Normal,Tinggi,Tidak,Normal,Tidak,Datar
+Manula,Perempuan,Angina atipikal,Normal,Tinggi,Tidak,Tinggi,Tidak,Datar
+Manula,Laki-Laki,Angina atipikal,Normal,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina tipikal,Normal,Normal,Ya,Tinggi,Tidak,Miring
+Lansia,Perempuan,Angina atipikal,Normal,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Perempuan,asimtomatik,Normal,Tinggi,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Tinggi,Ya,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Ya,Miring
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,Angina tipikal,Pra Hipertensi,Tinggi,Ya,Tinggi,Ya,Miring
+Dewasa,Perempuan,Angina tipikal,Normal,Normal,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Batas Tinggi,Tidak,Normal,Ya,Miring
+Lansia,Perempuan,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Normal,Batas Tinggi,Ya,Normal,Tidak,Miring
+Dewasa,Laki-Laki,Angina atipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Tinggi,Ya,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,Nyeri non-angina,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Nyeri non-angina,Hipertensi tingkat II,Tinggi,Tidak,Normal,Tidak,Menurun
+Lansia,Perempuan,Angina tipikal,Hipertensi tingkat I,Normal,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,Angina atipikal,Pra Hipertensi,Tinggi,Ya,Tinggi,Tidak,Menurun
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Normal,Tidak,Tinggi,Tidak,Miring
+Manula,Perempuan,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Normal,Tidak,Datar
+Manula,Laki-Laki,Nyeri non-angina,Hipertensi tingkat II,Batas Tinggi,Ya,Normal,Tidak,Datar
+Dewasa,Perempuan,asimtomatik,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Ya,Datar
+Lansia,Perempuan,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,asimtomatik,Normal,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,asimtomatik,Hipertensi tingkat II,Tinggi,Tidak,Tinggi,Ya,Miring
+Lansia,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Normal,Ya,Tinggi,Tidak,Miring
+Lansia,Perempuan,Angina atipikal,Hipertensi tingkat I,Tinggi,Tidak,Normal,Tidak,Miring
+Dewasa,Laki-Laki,asimtomatik,Normal,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Perempuan,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Laki-Laki,Nyeri non-angina,Pra Hipertensi,Normal,Tidak,Tinggi,Tidak,Datar
+Lansia,Perempuan,Angina tipikal,Normal,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Tinggi,Ya,Datar
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Perempuan,Angina atipikal,Normal,Tinggi,Tidak,Tinggi,Ya,Miring
+Lansia,Perempuan,Angina atipikal,Normal,Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Perempuan,Angina atipikal,Normal,Normal,Tidak,Tinggi,Tidak,Miring
+Dewasa,Perempuan,Angina tipikal,Normal,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Normal,Batas Tinggi,Tidak,Normal,Tidak,Miring
+Manula,Perempuan,Angina atipikal,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,Angina atipikal,Pra Hipertensi,Normal,Tidak,Tinggi,Tidak,Datar
+Manula,Perempuan,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Normal,Ya,Miring
+Lansia,Perempuan,Angina atipikal,Hipertensi tingkat II,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Datar
+Dewasa,Laki-Laki,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,Angina tipikal,Normal,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Perempuan,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,Angina atipikal,Pra Hipertensi,Normal,Ya,Kurang,Tidak,Miring
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Batas Tinggi,Ya,Normal,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Normal,Batas Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Kurang,Ya,Datar
+Lansia,Perempuan,Angina atipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,asimtomatik,Normal,Tinggi,Tidak,Tinggi,Tidak,Datar
+Dewasa,Perempuan,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
+Manula,Perempuan,asimtomatik,Normal,Batas Tinggi,Tidak,Normal,Tidak,Miring
+Manula,Perempuan,Angina atipikal,Hipertensi tingkat I,Normal,Tidak,Normal,Tidak,Datar
+Manula,Laki-Laki,Angina tipikal,Hipertensi tingkat I,Tinggi,Tidak,Normal,Tidak,Miring
+Dewasa,Perempuan,Angina atipikal,Normal,Tinggi,Tidak,Normal,Tidak,Datar
+Lansia,Perempuan,Nyeri non-angina,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,Angina atipikal,Pra Hipertensi,Normal,Tidak,Tinggi,Tidak,Miring
+Manula,Laki-Laki,asimtomatik,Hipertensi tingkat II,Batas Tinggi,Tidak,Normal,Tidak,Miring
+Manula,Perempuan,asimtomatik,Normal,Normal,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,Nyeri non-angina,Hipertensi tingkat II,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
+Manula,Perempuan,Angina atipikal,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Tidak,Datar
+Dewasa,Perempuan,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Normal,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,Angina tipikal,Pra Hipertensi,Normal,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Batas Tinggi,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Menurun
+Lansia,Perempuan,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,Angina tipikal,Pra Hipertensi,Normal,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,Angina atipikal,Pra Hipertensi,Normal,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,Angina atipikal,Pra Hipertensi,Normal,Tidak,Tinggi,Tidak,Miring
+Manula,Laki-Laki,asimtomatik,Hipertensi tingkat II,Tinggi,Tidak,Kurang,Ya,Datar
+Manula,Laki-Laki,asimtomatik,Pra Hipertensi,Batas Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Perempuan,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Tidak,Menurun
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Batas Tinggi,Ya,Tinggi,Ya,Menurun
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Tinggi,Ya,Normal,Ya,Datar
+Lansia,Laki-Laki,Angina tipikal,Normal,Batas Tinggi,Tidak,Tinggi,Tidak,Menurun
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Batas Tinggi,Tidak,Normal,Ya,Datar
+Dewasa,Laki-Laki,asimtomatik,Normal,Normal,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Normal,Batas Tinggi,Ya,Tinggi,Ya,Miring
+Lansia,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,asimtomatik,Pra Hipertensi,Normal,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Normal,Ya,Datar
+Manula,Perempuan,asimtomatik,Hipertensi tingkat I,Batas Tinggi,Tidak,Normal,Tidak,Datar
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina atipikal,Normal,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Normal,Tidak,Datar
+Dewasa,Laki-Laki,asimtomatik,Normal,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Normal,Ya,Miring
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Kurang,Ya,Datar
+Lansia,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
+Dewasa,Laki-Laki,asimtomatik,Normal,Normal,Tidak,Tinggi,Tidak,Miring
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Batas Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Normal,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Normal,Tidak,Tinggi,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat II,Tinggi,Tidak,Normal,Ya,Menurun
+Lansia,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Batas Tinggi,Tidak,Normal,Tidak,Datar
+Manula,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Ya,Tinggi,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Kurang,Ya,Datar
+Manula,Laki-Laki,asimtomatik,Normal,Tinggi,Tidak,Tinggi,Tidak,Miring
+Dewasa,Laki-Laki,asimtomatik,Normal,Normal,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Normal,Ya,Miring
+Manula,Laki-Laki,Angina atipikal,Hipertensi tingkat II,Tinggi,Ya,Tinggi,Ya,Datar
+Lansia,Perempuan,asimtomatik,Hipertensi tingkat II,Normal,Tidak,Normal,Tidak,Menurun
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Tinggi,Ya,Miring
+Lansia,Laki-Laki,asimtomatik,Normal,Batas Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Perempuan,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Normal,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Normal,Tidak,Tinggi,Ya,Miring
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Normal,Ya,Datar
+Dewasa,Laki-Laki,asimtomatik,Normal,Batas Tinggi,Tidak,Normal,Tidak,Datar
+Lansia,Perempuan,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Ya,Normal,Ya,Datar
+Dewasa,Perempuan,asimtomatik,Pra Hipertensi,Tinggi,Ya,Normal,Ya,Datar
+Lansia,Perempuan,Angina atipikal,Pra Hipertensi,Tinggi,Tidak,Kurang,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Ya,Normal,Ya,Miring
+Manula,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Ya,Tinggi,Ya,Miring
+Lansia,Perempuan,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Batas Tinggi,Tidak,Normal,Ya,Menurun
+Manula,Laki-Laki,Nyeri non-angina,Pra Hipertensi,Tinggi,Ya,Tinggi,Tidak,Datar
+Lansia,Perempuan,asimtomatik,Hipertensi tingkat II,Tinggi,Ya,Normal,Ya,Menurun
+Lansia,Laki-Laki,asimtomatik,Normal,Batas Tinggi,Tidak,Normal,Ya,Datar
+Manula,Laki-Laki,asimtomatik,Hipertensi tingkat I,Normal,Tidak,Normal,Ya,Menurun
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Kurang,Tidak,Datar
+Dewasa,Laki-Laki,asimtomatik,Pra Hipertensi,Normal,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,Nyeri non-angina,Hipertensi tingkat II,Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,Angina atipikal,Normal,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat II,Tinggi,Ya,Normal,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat II,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Kurang,Ya,Menurun
+Manula,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Kurang,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Ya,Miring
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Tidak,Datar
+Manula,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Tinggi,Ya,Miring
+Dewasa,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Tinggi,Ya,Miring
+Manula,Laki-Laki,Angina atipikal,Hipertensi tingkat II,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Perempuan,asimtomatik,Hipertensi tingkat II,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Batas Tinggi,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Kurang,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Normal,Tidak,Kurang,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Tinggi,Tidak,Datar
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Tinggi,Ya,Datar
+Manula,Laki-Laki,Angina tipikal,Hipertensi tingkat II,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,Angina tipikal,Hipertensi tingkat II,Tinggi,Tidak,Tinggi,Tidak,Miring
+Manula,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Tinggi,Tidak,Normal,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Normal,Ya,Datar
+Dewasa,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Ya,Normal,Ya,Datar
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Tinggi,Ya,Kurang,Tidak,Datar
+Manula,Laki-Laki,asimtomatik,Normal,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,Nyeri non-angina,Hipertensi tingkat II,Tinggi,Tidak,Normal,Tidak,Miring
+Dewasa,Laki-Laki,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Batas Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Perempuan,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Tinggi,Ya,Datar
+Dewasa,Laki-Laki,Nyeri non-angina,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Ya,Datar
+Manula,Perempuan,asimtomatik,Hipertensi tingkat II,Batas Tinggi,Ya,Tinggi,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Normal,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Kurang,Ya,Datar
+Lansia,Perempuan,asimtomatik,Normal,Tinggi,Tidak,Tinggi,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Normal,Batas Tinggi,Tidak,Kurang,Ya,Datar
+Manula,Laki-Laki,asimtomatik,Normal,Batas Tinggi,Tidak,Normal,Ya,Miring
+Lansia,Perempuan,asimtomatik,Hipertensi tingkat II,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,Angina atipikal,Normal,Normal,Tidak,Normal,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Ya,Kurang,Ya,Menurun
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Normal,Tidak,Miring
+Lansia,Laki-Laki,Nyeri non-angina,Pra Hipertensi,Batas Tinggi,Tidak,Normal,Tidak,Datar
+Manula,Laki-Laki,asimtomatik,Pra Hipertensi,Batas Tinggi,Tidak,Kurang,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Normal,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Normal,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Batas Tinggi,Tidak,Kurang,Tidak,Datar
+Lansia,Laki-Laki,Angina tipikal,Pra Hipertensi,Tinggi,Tidak,Normal,Tidak,Miring
+Lansia,Perempuan,Angina tipikal,Pra Hipertensi,Tinggi,Ya,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Normal,Tidak,Normal,Ya,Datar
+Dewasa,Laki-Laki,asimtomatik,Pra Hipertensi,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Batas Tinggi,Ya,Tinggi,Ya,Datar
+Lansia,Laki-Laki,Angina atipikal,Pra Hipertensi,Batas Tinggi,Ya,Normal,Tidak,Datar
+Dewasa,Laki-Laki,asimtomatik,Hipertensi tingkat I,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Batas Tinggi,Tidak,Normal,Ya,Miring
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,Nyeri non-angina,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,Angina tipikal,Hipertensi tingkat I,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Normal,Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Batas Tinggi,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Batas Tinggi,Tidak,Tinggi,Tidak,Miring
+Lansia,Laki-Laki,asimtomatik,Normal,Tinggi,Tidak,Normal,Tidak,Menurun
+Lansia,Perempuan,asimtomatik,Hipertensi tingkat II,Batas Tinggi,Ya,Normal,Ya,Datar
+Manula,Laki-Laki,Angina atipikal,Hipertensi tingkat I,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
+Dewasa,Laki-Laki,asimtomatik,Pra Hipertensi,Normal,Tidak,Normal,Ya,Menurun
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat I,Normal,Tidak,Normal,Ya,Miring
+Lansia,Perempuan,asimtomatik,Pra Hipertensi,Normal,Tidak,Normal,Ya,Datar
+Lansia,Laki-Laki,asimtomatik,Hipertensi tingkat II,Normal,Ya,Kurang,Tidak,Datar
+Lansia,Perempuan,asimtomatik,Hipertensi tingkat I,Tinggi,Tidak,Normal,Ya,Datar
+Dewasa,Laki-Laki,Nyeri non-angina,Normal,Tinggi,Tidak,Normal,Tidak,Datar
+Manula,Laki-Laki,asimtomatik,Hipertensi tingkat I,Normal,Ya,Normal,Tidak,Datar
+Lansia,Laki-Laki,asimtomatik,Pra Hipertensi,Normal,Tidak,Normal,Ya,Datar
+Lansia,Perempuan,Angina tipikal,Pra Hipertensi,Batas Tinggi,Tidak,Tinggi,Tidak,Datar
